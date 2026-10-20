@@ -1165,7 +1165,7 @@
 * ↪️ **[Pokémon Resources / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_pokemon_tools)**
 * ⭐ **[PokéRogue](https://pokerogue.net/)** - Pokémon Roguelike / [Wiki](https://wiki.pokerogue.net/start) / [Mobile](https://github.com/Admiral-Billy/Pokerogue-App) / [Subreddit](https://reddit.com/r/pokerogue/) / [Discord](https://discord.com/invite/uWpTfdKG49)
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
-* [DelugeRPG](https://www.delugerpg.com/) - Pokémon MMO
+* [Pokémon FireRed Version – Gameplay, Features & Guide](https://romsfun.to/games/pokemon-firered-version/)* [DelugeRPG](https://www.delugerpg.com/) - Pokémon MMO
 * [Pokemon Blaze Online](https://pokemonblazeonline.com/) - Pokémon MMO / [Discord](https://discord.com/invite/b3ZnXuf5fk)
 * [Pokémon Revolution Online](https://pokemonrevolution.net/) - Pokémon MMO
 * [⁠PokéOne](https://pokeonecommunity.com/) - Pokémon MMO / [Discord](https://discord.com/invite/bNYRTFn)
